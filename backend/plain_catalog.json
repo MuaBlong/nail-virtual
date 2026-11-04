@@ -1,0 +1,202 @@
+[
+  {
+    "id": "plain_jelly_pink",
+    "name": "Hồng thạch",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4293375429
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_milk_pink",
+    "name": "Hồng sữa",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4294104286
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_peach_nude",
+    "name": "Nude đào",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4292981918
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_milk_white",
+    "name": "Trắng sữa",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4294110174
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_cream",
+    "name": "Kem vanilla",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4293515445
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_rose",
+    "name": "Hồng đất",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4291068557
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_red",
+    "name": "Đỏ cherry",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4290259779
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_wine",
+    "name": "Đỏ rượu",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4285932603
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_coral",
+    "name": "Cam san hô",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4293628286
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_butter",
+    "name": "Vàng bơ",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4293514901
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_sage",
+    "name": "Xanh sage",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4288592808
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_mint",
+    "name": "Xanh mint",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4290173648
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_sky",
+    "name": "Xanh baby",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4290303469
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_navy",
+    "name": "Xanh navy",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4281617266
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_lavender",
+    "name": "Tím lavender",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4291344092
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_lilac",
+    "name": "Tím lilac",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4292923114
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_mocha",
+    "name": "Nâu mocha",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4288575592
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_cocoa",
+    "name": "Nâu cacao",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4285090884
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_black",
+    "name": "Đen bóng",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4280820780
+    ],
+    "images": []
+  },
+  {
+    "id": "plain_grey",
+    "name": "Xám khói",
+    "category": "Màu trơn",
+    "pattern": "solid",
+    "palette": [
+      4289113012
+    ],
+    "images": []
+  }
+]

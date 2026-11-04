@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.runlogs/
+backend/storage/
+flutter_app/build/
+flutter_app/.dart_tool/

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "crystal_blush",
+    "name": "Hồng thạch đính đá",
+    "category": "Đính đá",
+    "images": [
+      "assets/nails/prepared/crystal_blush_0.png",
+      "assets/nails/prepared/crystal_blush_1.png",
+      "assets/nails/prepared/crystal_blush_2.png",
+      "assets/nails/prepared/crystal_blush_3.png",
+      "assets/nails/prepared/crystal_blush_4.png"
+    ]
+  },
+  {
+    "id": "pearl_bride",
+    "name": "Ngọc trai cô dâu",
+    "category": "Ngọc trai & nơ",
+    "images": [
+      "assets/nails/prepared/pearl_bride_0.png",
+      "assets/nails/prepared/pearl_bride_1.png",
+      "assets/nails/prepared/pearl_bride_2.png",
+      "assets/nails/prepared/pearl_bride_3.png",
+      "assets/nails/prepared/pearl_bride_4.png"
+    ]
+  },
+  {
+    "id": "lavender_blossom",
+    "name": "Hoa nổi lavender",
+    "category": "Hoa nổi 3D",
+    "images": [
+      "assets/nails/prepared/lavender_blossom_0.png",
+      "assets/nails/prepared/lavender_blossom_1.png",
+      "assets/nails/prepared/lavender_blossom_2.png",
+      "assets/nails/prepared/lavender_blossom_3.png",
+      "assets/nails/prepared/lavender_blossom_4.png"
+    ]
+  },
+  {
+    "id": "cherry_stickers",
+    "name": "Cherry ngọt ngào",
+    "category": "Sticker",
+    "images": [
+      "assets/nails/prepared/cherry_stickers_0.png",
+      "assets/nails/prepared/cherry_stickers_1.png",
+      "assets/nails/prepared/cherry_stickers_2.png",
+      "assets/nails/prepared/cherry_stickers_3.png",
+      "assets/nails/prepared/cherry_stickers_4.png"
+    ]
+  },
+  {
+    "id": "blue_butterfly",
+    "name": "Bướm xanh pha lê",
+    "category": "Sticker",
+    "images": [
+      "assets/nails/prepared/blue_butterfly_0.png",
+      "assets/nails/prepared/blue_butterfly_1.png",
+      "assets/nails/prepared/blue_butterfly_2.png",
+      "assets/nails/prepared/blue_butterfly_3.png",
+      "assets/nails/prepared/blue_butterfly_4.png"
+    ]
+  },
+  {
+    "id": "rose_bow",
+    "name": "Nơ hồng jelly",
+    "category": "Ngọc trai & nơ",
+    "images": [
+      "assets/nails/prepared/rose_bow_0.png",
+      "assets/nails/prepared/rose_bow_1.png",
+      "assets/nails/prepared/rose_bow_2.png",
+      "assets/nails/prepared/rose_bow_3.png",
+      "assets/nails/prepared/rose_bow_4.png"
+    ]
+  },
+  {
+    "id": "champagne_crystal",
+    "name": "Champagne lấp lánh",
+    "category": "Đính đá",
+    "images": [
+      "assets/nails/prepared/champagne_crystal_0.png",
+      "assets/nails/prepared/champagne_crystal_1.png",
+      "assets/nails/prepared/champagne_crystal_2.png",
+      "assets/nails/prepared/champagne_crystal_3.png",
+      "assets/nails/prepared/champagne_crystal_4.png"
+    ]
+  },
+  {
+    "id": "mermaid_shell",
+    "name": "Vỏ sò ngọc ánh",
+    "category": "Hoa nổi 3D",
+    "images": [
+      "assets/nails/prepared/mermaid_shell_0.png",
+      "assets/nails/prepared/mermaid_shell_1.png",
+      "assets/nails/prepared/mermaid_shell_2.png",
+      "assets/nails/prepared/mermaid_shell_3.png",
+      "assets/nails/prepared/mermaid_shell_4.png"
+    ]
+  },
+  {
+    "id": "milky_natural",
+    "name": "Thạch nude tự nhiên",
+    "category": "Tự nhiên",
+    "images": [
+      "assets/nails/prepared/milky_natural_0.png",
+      "assets/nails/prepared/milky_natural_1.png",
+      "assets/nails/prepared/milky_natural_2.png",
+      "assets/nails/prepared/milky_natural_3.png",
+      "assets/nails/prepared/milky_natural_4.png"
+    ]
+  },
+  {
+    "id": "pastel_garden",
+    "name": "Vườn hoa pastel",
+    "category": "Hoa nổi 3D",
+    "images": [
+      "assets/nails/prepared/pastel_garden_0.png",
+      "assets/nails/prepared/pastel_garden_1.png",
+      "assets/nails/prepared/pastel_garden_2.png",
+      "assets/nails/prepared/pastel_garden_3.png",
+      "assets/nails/prepared/pastel_garden_4.png"
+    ]
+  },
+  {
+    "id": "midnight_jewels",
+    "name": "Pha lê đêm huyền",
+    "category": "Đính đá",
+    "images": [
+      "assets/nails/prepared/midnight_jewels_0.png",
+      "assets/nails/prepared/midnight_jewels_1.png",
+      "assets/nails/prepared/midnight_jewels_2.png",
+      "assets/nails/prepared/midnight_jewels_3.png",
+      "assets/nails/prepared/midnight_jewels_4.png"
+    ]
+  },
+  {
+    "id": "kawaii_charms",
+    "name": "Gấu sữa dễ thương",
+    "category": "Charm 3D",
+    "images": [
+      "assets/nails/prepared/kawaii_charms_0.png",
+      "assets/nails/prepared/kawaii_charms_1.png",
+      "assets/nails/prepared/kawaii_charms_2.png",
+      "assets/nails/prepared/kawaii_charms_3.png",
+      "assets/nails/prepared/kawaii_charms_4.png"
+    ]
+  }
+]
